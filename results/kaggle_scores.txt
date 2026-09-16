@@ -1,0 +1,13 @@
+Финальный Kaggle submission
+
+Период прогнозирования:
+2017-08-16 — 2017-08-31
+
+Модель:
+Final CatBoost v4, обучение на трех historical forecast origins
+
+Public Score: 0.53993
+Private Score: 0.54547
+
+Статус submission:
+Complete (after deadline)
