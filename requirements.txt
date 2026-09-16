@@ -1,8 +1,8 @@
-numpy
-pandas
-matplotlib
-plotly
-scikit-learn
+numpy==2.0.2
+pandas==2.3.3
+matplotlib==3.10.0
+plotly==5.24.1
+scikit-learn==1.6.1
+catboost==1.2.10
+torch==2.10.0+cu128
 statsforecast
-catboost
-torch
