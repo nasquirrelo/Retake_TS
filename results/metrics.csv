@@ -1,0 +1,12 @@
+model,MAE,NWRMSLE,validation_scope
+Naive,5.252054,0.941351,full
+SeasonalNaive,3.967178,0.879374,full
+CatBoost v1 raw target,3.579256,0.820891,full
+CatBoost v2 log1p,3.209863,0.679722,full
+CatBoost v3 promo metadata,3.112142,0.656276,full
+CatBoost v4 perishable weights,3.111792,0.656179,full
+CatBoost v5 oil holidays,3.130275,0.657016,full
+Final CatBoost v4 3 origins,3.001017,0.647597,full
+MLP,3.213383,0.660317,full
+AutoETS,3.576455,0.749299,5000 series sample
+AutoTheta,3.622445,0.751534,5000 series sample
